@@ -7,20 +7,19 @@ https://www.bilibili.com/video/BV1bK411A7tV/?share_source=copy_web&amp;vd_source
 
 
 
-运行环境：python 3.7.4
-使用conda 安装 requirements.txt
+一、运行环境：python 3.7.4  使用conda安装requirements.txt
 
 
 
 
-文件说明：
-blog_spider.py为依赖，包含“获取链接”的craw_2函数和获取网页文本的parse函数。
+二、文件说明：
+    blog_spider.py为依赖，包含“获取链接”的craw_2函数和获取网页文本的parse函数。
 
-01.multi_thread_crawl.py：多线程爬虫
+    01.multi_thread_crawl.py：多线程爬虫
 
-02.producer_consumer_spider.py：生产者-消费者
+    02.producer_consumer_spider.py：生产者-消费者
 
-03.lock_concurrent.py：线程锁
-
-04.thread_pool.py：线程池
+    03.lock_concurrent.py：线程锁
+  
+    04.thread_pool.py：线程池
 
