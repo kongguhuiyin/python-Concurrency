@@ -5,6 +5,8 @@
 
 https://www.bilibili.com/video/BV1bK411A7tV/?share_source=copy_web&amp;vd_source=d6a5a9e1e19bacd0be95f3785d47ed3c
 
+运行环境：python 3.7.4
+使用conda 安装 requirements.txt
 
 
 文件说明：
